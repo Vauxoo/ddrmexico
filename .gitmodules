@@ -1,0 +1,4 @@
+[submodule "ddrmexico"]
+	path = ddrmexico
+	url = git@git.vauxoo.com:vauxoo/ddrmexico.git
+	branch = 19.0
